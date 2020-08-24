@@ -215,23 +215,23 @@
   * [TernarySearch](https://github.com/TheAlgorithms/Java/blob/master/Searches/TernarySearch.java)
 
 ## Sorts
-  * [BitonicSort](https://github.com/TheAlgorithms/Java/blob/master/Sorts/BitonicSort.java)
-  * [BogoSort](https://github.com/TheAlgorithms/Java/blob/master/Sorts/BogoSort.java)
-  * [BubbleSort](https://github.com/TheAlgorithms/Java/blob/master/Sorts/BubbleSort.java)
-  * [BubbleSortRecursion](https://github.com/TheAlgorithms/Java/blob/master/Sorts/BubbleSortRecursion.java)
-  * [BucketSort](https://github.com/TheAlgorithms/Java/blob/master/Sorts/BucketSort.java)
-  * [CocktailShakerSort](https://github.com/TheAlgorithms/Java/blob/master/Sorts/CocktailShakerSort.java)
-  * [CombSort](https://github.com/TheAlgorithms/Java/blob/master/Sorts/CombSort.java)
-  * [CountingSort](https://github.com/TheAlgorithms/Java/blob/master/Sorts/CountingSort.java)
-  * [CycleSort](https://github.com/TheAlgorithms/Java/blob/master/Sorts/CycleSort.java)
-  * [GnomeSort](https://github.com/TheAlgorithms/Java/blob/master/Sorts/GnomeSort.java)
-  * [HeapSort](https://github.com/TheAlgorithms/Java/blob/master/Sorts/HeapSort.java)
-  * [InsertionSort](https://github.com/TheAlgorithms/Java/blob/master/Sorts/InsertionSort.java)
-  * [MergeSort](https://github.com/TheAlgorithms/Java/blob/master/Sorts/MergeSort.java)
-  * [PancakeSort](https://github.com/TheAlgorithms/Java/blob/master/Sorts/PancakeSort.java)
-  * [QuickSort](https://github.com/TheAlgorithms/Java/blob/master/Sorts/QuickSort.java)
-  * [RadixSort](https://github.com/TheAlgorithms/Java/blob/master/Sorts/RadixSort.java)
-  * [SelectionSort](https://github.com/TheAlgorithms/Java/blob/master/Sorts/SelectionSort.java)
-  * [ShellSort](https://github.com/TheAlgorithms/Java/blob/master/Sorts/ShellSort.java)
+  * [BitonicSort](https://github.com/TheAlgorithms/Java/blob/master/Sorts/BitonicSort.java) 双调排序器
+  * [BogoSort](https://github.com/TheAlgorithms/Java/blob/master/Sorts/BogoSort.java) Bogo排序
+  * [BubbleSort](https://github.com/TheAlgorithms/Java/blob/master/Sorts/BubbleSort.java) 冒泡排序
+  * [BubbleSortRecursion](https://github.com/TheAlgorithms/Java/blob/master/Sorts/BubbleSortRecursion.java) 冒泡排序-递归
+  * [BucketSort](https://github.com/TheAlgorithms/Java/blob/master/Sorts/BucketSort.java) 桶排序
+  * [CocktailShakerSort](https://github.com/TheAlgorithms/Java/blob/master/Sorts/CocktailShakerSort.java) 鸡尾酒排序
+  * [CombSort](https://github.com/TheAlgorithms/Java/blob/master/Sorts/CombSort.java) 梳排序
+  * [CountingSort](https://github.com/TheAlgorithms/Java/blob/master/Sorts/CountingSort.java) 计数排序
+  * [CycleSort](https://github.com/TheAlgorithms/Java/blob/master/Sorts/CycleSort.java) 圈排序
+  * [GnomeSort](https://github.com/TheAlgorithms/Java/blob/master/Sorts/GnomeSort.java) 侏儒排序
+  * [HeapSort](https://github.com/TheAlgorithms/Java/blob/master/Sorts/HeapSort.java) 堆排序
+  * [InsertionSort](https://github.com/TheAlgorithms/Java/blob/master/Sorts/InsertionSort.java) 插入排序
+  * [MergeSort](https://github.com/TheAlgorithms/Java/blob/master/Sorts/MergeSort.java) 归并排序
+  * [PancakeSort](https://github.com/TheAlgorithms/Java/blob/master/Sorts/PancakeSort.java) 煎饼排序
+  * [QuickSort](https://github.com/TheAlgorithms/Java/blob/master/Sorts/QuickSort.java) 快速排序
+  * [RadixSort](https://github.com/TheAlgorithms/Java/blob/master/Sorts/RadixSort.java) 基数排序
+  * [SelectionSort](https://github.com/TheAlgorithms/Java/blob/master/Sorts/SelectionSort.java) 选择排序
+  * [ShellSort](https://github.com/TheAlgorithms/Java/blob/master/Sorts/ShellSort.java) 希尔排序
   * [SortAlgorithm](https://github.com/TheAlgorithms/Java/blob/master/Sorts/SortAlgorithm.java)
   * [SortUtils](https://github.com/TheAlgorithms/Java/blob/master/Sorts/SortUtils.java)
